@@ -103,7 +103,7 @@ body {
   /* Mone-style: outline white + cyan fill */
   color: transparent;
   -webkit-text-stroke: 2px rgba(255,255,255,0.9);
-  background: linear-gradient(135deg, var(--cyan), var(--violet));
+  background: linear-gradient(135deg, var(--violet), var(--cyan));
   -webkit-background-clip: text;
   background-clip: text;
   filter: drop-shadow(0 0 28px var(--glow-c));
